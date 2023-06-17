@@ -1,1 +1,1 @@
-print "(Primer fichero python)"
+print ("Primer fichero python")
